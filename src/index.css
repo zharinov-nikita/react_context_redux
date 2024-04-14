@@ -9,3 +9,7 @@
 .app {
     background-color: var(--primary-color);
 }
+
+.book {
+    --primary-color: red;
+}
